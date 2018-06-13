@@ -1,0 +1,3 @@
+[submodule "submodules/miq_mac_dev"]
+	path = tmp/miq_mac_dev
+	url = https://github.com/mturley/miq_mac_dev.git
